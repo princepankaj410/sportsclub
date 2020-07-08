@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.addtoany.com	TRUE	/	FALSE	1999999999	__cfduid	d495e5c16227c03deb840cc0244193b7e1594138794
+static.addtoany.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+worldsports.club	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+worldsports.club	TRUE	/	FALSE	1999999999	wp_woocommerce_session_614fb850116047ff228928c9228853b3	086594207ff9e96b68d76a0dafd96da6%7C%7C1594311646%7C%7C1594308046%7C%7C9a8cb7e5408640f33fb887c2d12782fb
+worldsports.club	TRUE	/	FALSE	1999999999	mailchimp_landing_site	https%3A%2F%2Fworldsports.club%2Fwp-content%2Fthemes%2Fsplash%2Fassets%2Ffonts%2Fglyphicons-halflings-regular.eot
+worldsports.club	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	82a91ae315f42a65aa6a250ee0ee2453
+
